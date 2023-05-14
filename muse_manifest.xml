@@ -1,152 +1,112 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="predesign.github.io" resolutions="1x" timestamp="1665595380096">
-  <folder name="images">
-    <file name="u536-30.png" crc="3806836197" ref="info"/>
-    <file name="虚拟形象-23-crop-u540.jpg" crc="3796980089" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-22-crop-u546.jpg" crc="57129508" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-34-crop-u552.jpg" crc="315360451" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="u536-302.png" crc="3898383552" ref="info"/>
-    <file name="虚拟形象-23-crop-u5402.jpg" crc="421987041" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-22-crop-u5462.jpg" crc="3796335058" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-34-crop-u5522.jpg" crc="4090190496" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="u536-303.png" crc="4079772901" ref="info"/>
-    <file name="虚拟形象-23-crop-u5403.jpg" crc="393822824" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-22-crop-u5463.jpg" crc="481510505" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="虚拟形象-34-crop-u5523.jpg" crc="128007515" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="01a 拷贝-u1625.png" crc="3816278948" ref="posterdesign"/>
-    <file name="01c 拷贝-u1662.png" crc="456976188" ref="posterdesign"/>
-    <file name="05 拷贝-u1857.png" crc="4043372625" ref="posterdesign"/>
-    <file name="08 拷贝-u1902.png" crc="310755079" ref="posterdesign"/>
-    <file name="10 拷贝-u1895.png" crc="3907841963" ref="posterdesign"/>
-    <file name="14 拷贝-u1943.png" crc="214418636" ref="posterdesign"/>
-    <file name="12 拷贝-u1936.png" crc="3869141844" ref="posterdesign"/>
-    <file name="众志成城共抗疫情rgb预览 拷贝-u2008.png" crc="75749678" ref="posterdesign"/>
-    <file name="01b 拷贝-u1655.png" crc="400358211" ref="posterdesign"/>
-    <file name="02 拷贝-u1679.png" crc="479293284" ref="posterdesign"/>
-    <file name="04 拷贝-u1737.png" crc="227829931" ref="posterdesign"/>
-    <file name="03-crop-u1758.jpg" crc="206109131" seo="true" ref="posterdesign">
-      <caption webpage="posterdesign" alt=""/>
-    </file>
-    <file name="09a 拷贝-u1820.png" crc="3895893259" ref="posterdesign"/>
-    <file name="09b 拷贝-u1813.png" crc="4066692333" ref="posterdesign"/>
-    <file name="09c 拷贝-u1806.png" crc="281520310" ref="posterdesign"/>
-    <file name="13 拷贝-u1929.png" crc="179423540" ref="posterdesign"/>
-    <file name="17 拷贝-u1994.png" crc="155885493" ref="posterdesign"/>
-    <file name="18 拷贝-u1987.png" crc="3836121919" ref="posterdesign"/>
-    <file name="19 拷贝-u1980.png" crc="3923954114" ref="posterdesign"/>
-    <file name="20 拷贝-u2015.png" crc="246010469" ref="posterdesign"/>
-    <file name="01a 拷贝-u16252.png" crc="4263800232" ref="posterdesign"/>
-    <file name="01c 拷贝-u16622.png" crc="4077129051" ref="posterdesign"/>
-    <file name="05 拷贝-u18572.png" crc="422502150" ref="posterdesign"/>
-    <file name="08 拷贝-u19022.png" crc="429104702" ref="posterdesign"/>
-    <file name="10 拷贝-u18952.png" crc="3981303986" ref="posterdesign"/>
-    <file name="14 拷贝-u19432.png" crc="4199302175" ref="posterdesign"/>
-    <file name="12 拷贝-u19362.png" crc="37799313" ref="posterdesign"/>
-    <file name="众志成城共抗疫情rgb预览 拷贝-u20082.png" crc="3992599238" ref="posterdesign"/>
-    <file name="01b 拷贝-u16552.png" crc="3994990508" ref="posterdesign"/>
-    <file name="02 拷贝-u16792.png" crc="100978722" ref="posterdesign"/>
-    <file name="04 拷贝-u17372.png" crc="168526217" ref="posterdesign"/>
-    <file name="03-crop-u17582.jpg" crc="336956669" seo="true" ref="posterdesign">
-      <caption webpage="posterdesign" alt=""/>
-    </file>
-    <file name="09a 拷贝-u18202.png" crc="4192544768" ref="posterdesign"/>
-    <file name="09b 拷贝-u18132.png" crc="90251358" ref="posterdesign"/>
-    <file name="09c 拷贝-u18062.png" crc="3875710046" ref="posterdesign"/>
-    <file name="13 拷贝-u19292.png" crc="4089243560" ref="posterdesign"/>
-    <file name="17 拷贝-u19942.png" crc="4018453634" ref="posterdesign"/>
-    <file name="18 拷贝-u19872.png" crc="4201136805" ref="posterdesign"/>
-    <file name="19 拷贝-u19802.png" crc="3869377707" ref="posterdesign"/>
-    <file name="20 拷贝-u20152.png" crc="273380722" ref="posterdesign"/>
-    <file name="01a 拷贝-u16253.png" crc="6099784" ref="posterdesign"/>
-    <file name="01c 拷贝-u16623.png" crc="81203318" ref="posterdesign"/>
-    <file name="05 拷贝-u18573.png" crc="301134537" ref="posterdesign"/>
-    <file name="08 拷贝-u19023.png" crc="147748964" ref="posterdesign"/>
-    <file name="10 拷贝-u18953.png" crc="3964726197" ref="posterdesign"/>
-    <file name="14 拷贝-u19433.png" crc="87740974" ref="posterdesign"/>
-    <file name="12 拷贝-u19363.png" crc="322367024" ref="posterdesign"/>
-    <file name="众志成城共抗疫情rgb预览 拷贝-u20083.png" crc="4251462903" ref="posterdesign"/>
-    <file name="01b 拷贝-u16553.png" crc="161242727" ref="posterdesign"/>
-    <file name="02 拷贝-u16793.png" crc="405591539" ref="posterdesign"/>
-    <file name="03-crop-u17583.jpg" crc="421807763" seo="true" ref="posterdesign">
-      <caption webpage="posterdesign" alt=""/>
-    </file>
-    <file name="04 拷贝-u17373.png" crc="3928197929" ref="posterdesign"/>
-    <file name="09a 拷贝-u18203.png" crc="125996432" ref="posterdesign"/>
-    <file name="09b 拷贝-u18133.png" crc="3850567782" ref="posterdesign"/>
-    <file name="09c 拷贝-u18063.png" crc="3944674482" ref="posterdesign"/>
-    <file name="13 拷贝-u19293.png" crc="287212486" ref="posterdesign"/>
-    <file name="17 拷贝-u19943.png" crc="3798071804" ref="posterdesign"/>
-    <file name="18 拷贝-u19873.png" crc="3957830305" ref="posterdesign"/>
-    <file name="19 拷贝-u19803.png" crc="94296862" ref="posterdesign"/>
-    <file name="20 拷贝-u20153.png" crc="236426491" ref="posterdesign"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="predesign.cn" resolutions="1x" timestamp="1684082533710">
   <folder name="css">
-    <file name="site_global.css" crc="430217533"/>
-    <file name="master_a-__.css" crc="278155493" ref="index:info:branddesign:photography:posterdesign:logodesign:bookdesign:motiongraphic:illustration"/>
-    <file name="index.css" crc="4146619602" ref="index"/>
-    <file name="info.css" crc="3948759478" ref="info"/>
-    <file name="branddesign.css" crc="4146619602" ref="branddesign"/>
-    <file name="photography.css" crc="4146619602" ref="photography"/>
-    <file name="posterdesign.css" crc="273629443" ref="posterdesign"/>
-    <file name="logodesign.css" crc="4146619602" ref="logodesign"/>
-    <file name="bookdesign.css" crc="4146619602" ref="bookdesign"/>
-    <file name="motiongraphic.css" crc="4146619602" ref="motiongraphic"/>
-    <file name="nomq_preview_master_a-__.css" crc="3824530138" ref="branddesign:photography:index:posterdesign:logodesign:bookdesign:motiongraphic:info:illustration"/>
-    <file name="nomq_branddesign.css" crc="3767448444" ref="branddesign"/>
-    <file name="nomq_photography.css" crc="3767448444" ref="photography"/>
-    <file name="nomq_index.css" crc="3767448444" ref="index"/>
-    <file name="nomq_posterdesign.css" crc="3850853943" ref="posterdesign"/>
-    <file name="nomq_logodesign.css" crc="3767448444" ref="logodesign"/>
-    <file name="nomq_bookdesign.css" crc="3767448444" ref="bookdesign"/>
-    <file name="nomq_motiongraphic.css" crc="3767448444" ref="motiongraphic"/>
-    <file name="nomq_info.css" crc="3942558876" ref="info"/>
-    <file name="illustration.css" crc="4146619602" ref="illustration"/>
-    <file name="nomq_illustration.css" crc="3767448444" ref="illustration"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="140941347" ref="about-us:gallary:work:index:contact"/>
+    <file name="about-us.css" crc="3777926757" ref="about-us"/>
+    <file name="gallary.css" crc="4176140644" ref="gallary"/>
+    <file name="work.css" crc="4229622614" ref="work"/>
+    <file name="index.css" crc="4083839155" ref="index"/>
+    <file name="contact.css" crc="426996951" ref="contact"/>
   </folder>
   <folder name="fonts">
+    <file name="universnextpro-heavy.woff" crc="3765487321"/>
+    <file name="universnextpro-heavy.eot" crc="4260972856"/>
+    <file name="方正兰亭黑简体.woff" crc="358034062"/>
+    <file name="方正兰亭黑简体.eot" crc="197924486"/>
     <file name="universnextpro-regular.woff" crc="4035086773"/>
     <file name="universnextpro-regular.eot" crc="172348008"/>
-    <file name="思源黑体sc-normal.woff" crc="3844482822"/>
-    <file name="思源黑体sc-normal.eot" crc="4241816859"/>
+    <file name="方正兰亭黑简体-bold.woff" crc="383011104"/>
+    <file name="方正兰亭黑简体-bold.eot" crc="4196065648"/>
+    <file name="universnextpro-blod.woff" crc="351243697"/>
+    <file name="universnextpro-bold.eot" crc="4087606172"/>
     <file name="universnextpro-light.woff" crc="143263625"/>
     <file name="universnextpro-light.eot" crc="387407359"/>
-    <file name="方正兰亭黑简体-light.woff" crc="3878817104"/>
-    <file name="方正兰亭黑简体-light.eot" crc="4022579044"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="museutils.js" crc="3803043152" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="whatinput.js" crc="86476730" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="museconfig.js" crc="380897831" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="require.js" crc="4157109226" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:info:posterdesign:logodesign:branddesign:bookdesign:motiongraphic:photography:illustration"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:gallary:about-us:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:work:gallary:about-us:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work:gallary:about-us:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:work:gallary:about-us:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:work:gallary:about-us:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:work:gallary:about-us:contact"/>
   </folder>
-  <file name="index.html" crc="477550565" seo="true" mt="1665506619750" redirect="true"/>
-  <file name="info.html" crc="4004373440" seo="true" mt="1665595362953" redirect="true"/>
-  <file name="posterdesign.html" crc="4225004431" seo="true" mt="1665595148319" redirect="true"/>
-  <file name="logodesign.html" crc="3920853984" seo="true" mt="1665506657755" redirect="true"/>
-  <file name="branddesign.html" crc="362330925" seo="true" mt="1665506662339" redirect="true"/>
-  <file name="bookdesign.html" crc="3909210406" seo="true" mt="1665506665761" redirect="true"/>
-  <file name="motiongraphic.html" crc="4178665302" seo="true" mt="1665506672075" redirect="true"/>
-  <file name="photography.html" crc="4250246317" seo="true" mt="1665506683692" redirect="true"/>
-  <file name="illustration.html" crc="4191794376" seo="true" mt="1665506679235" redirect="true"/>
+  <folder name="images">
+    <file name="logo_black.svg" crc="4237635692" seo="true" ref="index:work:gallary:about-us:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo_black_poster_.png" crc="3874940372" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="webdesign_works_black.svg" crc="4242725139" seo="true" ref="index:work:gallary:about-us:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="webdesign_works_black_poster_.png" crc="411735059" ref="index"/>
+    <file name="webdesign_gallary_black.svg" crc="349745142" seo="true" ref="index:work:gallary:about-us:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="webdesign_gallary_black_poster_.png" crc="4194955107" ref="index"/>
+    <file name="webdesign_about_black.svg" crc="3781214409" seo="true" ref="index:work:gallary:about-us:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="gallary" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="webdesign_about_black_poster_.png" crc="496244795" ref="index"/>
+    <file name="2.jpg" crc="4093261442" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="g-crop-u1526.jpg" crc="3960188817" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="s4-crop-u1581.jpg" crc="4019101127" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="b.jpg" crc="4094470611" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="h-crop-u1533.jpg" crc="3838037750" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="h-crop-u1574.jpg" crc="3838037750" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="71_what should i do_宁宁rgb-crop-u1325.jpg" crc="4132704849" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="8-crop-u1339.jpg" crc="4156293355" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="20200812_禁止掉头-crop-u1351.jpg" crc="4109873969" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="001 (2)-crop-u1003.jpg" crc="83068861" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="wall_poster3-crop-u1342.jpg" crc="3991125670" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="3.jpg" crc="259561514" seo="true" ref="gallary">
+      <caption webpage="gallary" alt=""/>
+    </file>
+    <file name="虚拟形象-46-crop-u514.jpg" crc="108277589" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3946135881" seo="true" mt="1684082060056" redirect="true"/>
+  <file name="work.html" crc="4112291749" seo="true" mt="1684082301542" redirect="true"/>
+  <file name="gallary.html" crc="3975259029" seo="true" mt="1684082400524" redirect="true"/>
+  <file name="about-us.html" crc="4166479864" seo="true" mt="1684056808284" redirect="true"/>
+  <file name="contact.html" crc="4252391797" seo="true" mt="1684056808284" redirect="true"/>
 </manifest>
