@@ -1,0 +1,451 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="predesign.cn" resolutions="1x" timestamp="1726319738981">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-__.css" crc="418773355" ref="gallery--01:gallery:gallery--02"/>
+    <file name="master_a-__.css" crc="293342651" ref="works-03:works-01:index:works-02:contact:works"/>
+    <file name="gallery--01.css" crc="26961723" ref="gallery--01"/>
+    <file name="gallery.css" crc="3842967054" ref="gallery"/>
+    <file name="works-03.css" crc="113236977" ref="works-03"/>
+    <file name="works-01.css" crc="157309439" ref="works-01"/>
+    <file name="gallery--02.css" crc="194567316" ref="gallery--02"/>
+    <file name="index.css" crc="3875237159" ref="index"/>
+    <file name="works-02.css" crc="359069884" ref="works-02"/>
+    <file name="contact.css" crc="4068635217" ref="contact"/>
+    <file name="works.css" crc="4163586214" ref="works"/>
+  </folder>
+  <folder name="fonts">
+    <file name="honorsanscn-regular.woff" crc="333912426"/>
+    <file name="honorsanscn-regular.eot" crc="3919364651"/>
+    <file name="honorsanscn-regular.svg" crc="389985107"/>
+    <file name="honorsanscn-demibold.woff" crc="4273867615"/>
+    <file name="honorsanscn-demibold.eot" crc="27189277"/>
+    <file name="honorsanscn-demibold.svg" crc="4047366701"/>
+  </folder>
+  <folder name="assets">
+    <file name="5.webp" crc="132275707" seo="true" mt="1726042111000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+    <file name="museutils.js" crc="3803043152" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+    <file name="whatinput.js" crc="86476730" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+    <file name="require.js" crc="4157109226" ref="index:works:gallery:contact:works-01:works-02:works-03:gallery--01:gallery--02"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4254804920" ref="index"/>
+    <file name="资源-3.svg" crc="477082599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 3_poster_.png" crc="426445831" ref="index"/>
+    <file name="资源-25.svg" crc="4163545042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 25_poster_.png" crc="434805849" ref="index"/>
+    <file name="资源-26.svg" crc="4040655724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="资源 26_poster_.png" crc="59075281" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:works:gallery:gallery--01"/>
+    <file name="资源-4.svg" crc="3910486048" seo="true" ref="index:works:contact:works-01:works-02:works-03">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 4_poster_.png" crc="4091266355" ref="index"/>
+    <file name="资源-20.svg" crc="282108079" seo="true" ref="index:works:contact:works-01:works-02:works-03">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 20_poster_.png" crc="4009780002" ref="index"/>
+    <file name="资源-18.svg" crc="4009444047" seo="true" ref="index:works:contact:works-01:works-02:works-03">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 18_poster_.png" crc="3822627441" ref="index"/>
+    <file name="资源-19.svg" crc="4015427800" seo="true" ref="index:works:contact:works-01:works-02:works-03">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 19_poster_.png" crc="272436371" ref="index"/>
+    <file name="资源-17.svg" crc="100787319" seo="true" ref="index:works:contact:works-01:works-02:works-03">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 17_poster_.png" crc="4098884717" ref="index"/>
+    <file name="资源 3@1000x-100-crop-u509.jpg" crc="3924917525" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="资源 5@1000x-100.jpg" crc="114646001" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="资源 9@1000x-100.jpg" crc="3876498744" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="00-23_w_1500px (1).jpg" crc="175536830" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="资源-40.svg" crc="4170222371" seo="true" ref="works:gallery--01:gallery--02">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="资源 40_poster_.png" crc="502817879" ref="works"/>
+    <file name="修改_画板 1 副本 19_w_1500px (1).jpg" crc="251278422" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="资源-30.svg" crc="61372107" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 30_poster_.png" crc="190127037" ref="gallery"/>
+    <file name="资源-22.svg" crc="432495934" seo="true" ref="gallery:gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 22_poster_.png" crc="208084270" ref="gallery"/>
+    <file name="资源-23.svg" crc="4014552532" seo="true" ref="gallery:gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 23_poster_.png" crc="4276175203" ref="gallery"/>
+    <file name="kraft-wood-notebooks- elegant-set-mockup (1).png" crc="95836126" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13561726136065_pic_hd (1).png" crc="23451318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cores_v2 (1)-crop-u2873.png" crc="411051607" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cores_v23 (1)-crop-u2887.png" crc="4009807764" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源-28.svg" crc="3985158075" seo="true" ref="gallery:gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 28_poster_.png" crc="3985895205" ref="gallery"/>
+    <file name="资源-24.svg" crc="4187684424" seo="true" ref="gallery:gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 24_poster_.png" crc="71440642" ref="gallery"/>
+    <file name="资源-21.svg" crc="356062273" seo="true" ref="gallery:gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="资源 21_poster_.png" crc="4126131317" ref="gallery"/>
+    <file name="资源-15.svg" crc="4046295652" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="资源 15_poster_.png" crc="30283337" ref="contact"/>
+    <file name="资源-9.svg" crc="4016109994" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="资源 9_poster_.png" crc="390348050" ref="contact"/>
+    <file name="资源-39.svg" crc="395769793" seo="true" ref="works-01:works-02:works-03">
+      <caption webpage="works-01" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="资源 39_poster_.png" crc="311082606" ref="works-01"/>
+    <file name="资源 3@1000x-100.jpg" crc="347212685" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 2@1000x-100.jpg" crc="96755118" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 4@1000x-100.jpg" crc="535598047" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 5@1000x-1002.jpg" crc="376554919" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 6@1000x-100.jpg" crc="4109975107" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 7@1000x-100.jpg" crc="4169651649" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 8@1000x-100.jpg" crc="3821675471" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源 9@1000x-100-crop-u3032.jpg" crc="4137590032" seo="true" ref="works-01">
+      <caption webpage="works-01" alt=""/>
+    </file>
+    <file name="资源-45.svg" crc="529203618" seo="true" ref="works-01:works-02:works-03">
+      <caption webpage="works-01" alt=""/>
+      <caption webpage="works-02" alt=""/>
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="资源 45_poster_.png" crc="502508669" ref="works-01"/>
+    <file name="mlt1.jpg" crc="60569213" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt2.jpg" crc="4267573665" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt3.jpg" crc="3898561461" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt4-crop-u1806.jpg" crc="4246691498" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt4-crop-u1813.jpg" crc="433526959" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt5.jpg" crc="185635733" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt6.jpg" crc="3946748981" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt75.jpg" crc="3825783311" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt7.jpg" crc="4278801131" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt8-crop-u1929.jpg" crc="136089663" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt8-crop-u1936.jpg" crc="4079110317" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt9.jpg" crc="3844127610" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="mlt10.jpg" crc="3949764382" seo="true" ref="works-02">
+      <caption webpage="works-02" alt=""/>
+    </file>
+    <file name="wkk1.jpg" crc="4141819610" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk2.jpg" crc="4231301846" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk3.jpg" crc="404773143" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk4.jpg" crc="4156412982" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk5.jpg" crc="4184578384" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk6-crop-u2100.jpg" crc="4229793222" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk6-crop-u2103.jpg" crc="3855202579" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk7-crop-u2094.jpg" crc="4200121057" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk7-crop-u2080.jpg" crc="79765383" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk8.jpg" crc="196818855" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk9.jpg" crc="4251713442" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk10.jpg" crc="4167016598" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="wkk11.jpg" crc="282737337" seo="true" ref="works-03">
+      <caption webpage="works-03" alt=""/>
+    </file>
+    <file name="资源-38.svg" crc="4020632619" seo="true" ref="gallery--01:gallery--02">
+      <caption webpage="gallery--01" alt=""/>
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="资源 38_poster_.png" crc="3918440676" ref="gallery--01"/>
+    <file name="资源 40-100.jpg" crc="406246112" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 28-100.jpg" crc="504805842" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 41-100.jpg" crc="109374291" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 39-100.jpg" crc="115251101" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 37-100.jpg" crc="61537101" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 38-100.jpg" crc="99491261" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 20-100.jpg" crc="3948880013" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 9-100.jpg" crc="4086525754" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 36-100.jpg" crc="3947660080" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 27-100.jpg" crc="4009179062" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 35-100.jpg" crc="3917825188" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 34-100.jpg" crc="4193744458" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 17-100.jpg" crc="3977602171" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 33-100.jpg" crc="3823805464" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 19-100.jpg" crc="4011416914" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 4-100.jpg" crc="3921560412" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 29-100.jpg" crc="493447287" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 26-100.jpg" crc="4002627309" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 32-100.jpg" crc="4256335720" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 15-100.jpg" crc="535049165" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 31-100.jpg" crc="3985299323" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 30-100.jpg" crc="406925891" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 2-100.jpg" crc="3998045771" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 25-100.jpg" crc="4203474857" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 24-100.jpg" crc="74506748" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 23-100.jpg" crc="4257523853" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 14-100.jpg" crc="503702178" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 13-100.jpg" crc="4164392928" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 5-100.jpg" crc="148396544" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 10-100.jpg" crc="484120140" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 11-100.jpg" crc="61619736" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 18-100.jpg" crc="285093203" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 16-100.jpg" crc="4073750872" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 8-100.jpg" crc="15345855" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 3-100.jpg" crc="408915256" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 21-100.jpg" crc="4221114388" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 7-100.jpg" crc="4117325683" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 22-100.jpg" crc="85011532" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 12-100.jpg" crc="4055012517" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 6-100.jpg" crc="441554833" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="资源 1-100.jpg" crc="3889852349" seo="true" ref="gallery--01">
+      <caption webpage="gallery--01" alt=""/>
+    </file>
+    <file name="2 (2).jpg" crc="4051009348" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="v.jpg" crc="280940092" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="img_20211009_135027.jpg" crc="135697539" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="day1.jpg" crc="9296654" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="day2.jpg" crc="366408081" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="day3.jpg" crc="161996913" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="3 (1).jpg" crc="4080861443" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="5 (1)-crop-u7019.jpg" crc="4028939459" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+    <file name="6 (1)-crop-u6991.jpg" crc="364268991" seo="true" ref="gallery--02">
+      <caption webpage="gallery--02" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="349752027" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="works.html" crc="41678683" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="gallery.html" crc="4283186396" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="contact.html" crc="303935786" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="works-01.html" crc="190196246" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="works-02.html" crc="98049779" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="works-03.html" crc="4221994606" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="gallery--01.html" crc="4003757779" seo="true" mt="1726319639714" redirect="true"/>
+  <file name="gallery--02.html" crc="3924222635" seo="true" mt="1726319639714" redirect="true"/>
+</manifest>
